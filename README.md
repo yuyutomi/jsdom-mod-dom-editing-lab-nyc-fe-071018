@@ -177,8 +177,8 @@ This is the _DOM tree_!
 
 ## Resources
 
-- [HTML Block Elements][html-block-elements]:
-- [HTML Inline Elements][html-inline-elements]:
+- [HTML Block Elements][html-block-elements]
+- [HTML Inline Elements][html-inline-elements]
 
 ## Moving On
 
