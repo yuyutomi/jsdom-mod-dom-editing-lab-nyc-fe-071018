@@ -182,11 +182,6 @@ That's a _lot_ of nesting.
 Look again at the 'Elements' tab. Expand out all the children of the `table`.
 This is the _DOM tree_!
 
-## Resources
-
-- [HTML Block Elements][html-block-elements]
-- [HTML Inline Elements][html-inline-elements]
-
 ## Moving On
 
 When you're ready to leave this lab, run `learn` from the command line. If the
@@ -197,6 +192,11 @@ test pass, enter `learn submit`. You'll then be prompted to move on.
 We reviewed DOM nodes and their HTML sources, and we reviewed how the DOM is
 structured. We also looked at block and inline elements and their behaviors.
 Finally, we practiced working directly with the DOM.
+
+## Resources
+
+- [HTML Block Elements][html-block-elements]
+- [HTML Inline Elements][html-inline-elements]
 
 [html-block-elements]: https://developer.mozilla.org/en/docs/Web/HTML/Block-level_elements
 [html-inline-elements]: https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements
