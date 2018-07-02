@@ -28,8 +28,15 @@ An example of a normal tag is a paragraph:
 <p>I am a paragraph.</p>
 ```
 
-To _nest_ items in a "normal tag," we simply add the content between its
-starting and ending tag:
+Another normal tag is a main section:
+
+```html
+<main>
+</main>
+```
+
+To _nest_ items in a "normal tag," we simply add the child node HTML element
+content between its parent's starting and ending tags:
 
 ```html
 <body>
@@ -40,8 +47,8 @@ starting and ending tag:
 ```
 
 Some nodes only have a starting tag. Those are called _self-closing_ elements.
-These elements do not have any content nested inside of them (more technically,
-they are called _void_ elements). They cannot, therefore, be parents nodes.
+These elements do not have any content nested inside of them. More technically,
+they are called _void_ elements. Void elements cannot, therefore, be parent nodes.
 
 An example of a self-closing tag is an image:
 
